@@ -1,0 +1,27 @@
+# Python Virtual Environment
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# MLflow Tracking Data
+mlruns/
+mlflow.db
+
+# Raw Data
+data/*.csv
+
+# Generated Reports
+data_drift_report.html
+
+# IDE / Editor folders (like VS Code)
+.vscode/
+.idea/
+
+# Note: model.pkl and model_columns.pkl are intentionally NOT ignored... 
