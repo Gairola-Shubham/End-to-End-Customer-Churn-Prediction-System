@@ -9,7 +9,6 @@ This project is a complete, production-ready Machine Learning system that predic
 
 *Automated detection of statistical data drift to monitor model degradation in production using Evidently AI.*
 ![Data Drift Dashboard](images/drift_report.png)
-*(Note: Save your HTML screenshot as `drift_report.png` inside an `images` folder)*
 
 ---
 
